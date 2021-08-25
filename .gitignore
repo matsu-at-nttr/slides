@@ -1,2 +1,8 @@
 node_modules/
-# *.html これがあると、ciでgithub pagesにデプロイできない
+
+# これ↓があると、ciでgithub pagesにデプロイできない
+# *.html
+
+# README はスライド扱いしない
+README.pdf
+README.html

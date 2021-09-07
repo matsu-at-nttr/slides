@@ -37,7 +37,7 @@ from https://fukabori.fm/episode/28
 ---
 
 
-## 予測する力をどう養えばよいか
+## どう養えばよいか
 
 ![height:450](https://github.com/matsu-at-nttr/slides/blob/main/assets/huriko.png?raw=true)
 

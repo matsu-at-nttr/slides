@@ -1,0 +1,4 @@
+{
+  "enabledManagers": ["pub"],
+  "extends": ["config:base"]
+}
